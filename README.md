@@ -20,8 +20,8 @@ Rider Application Images--
 Driver Application Images--
 
 ![image](https://user-images.githubusercontent.com/108078148/206921063-7e0d302f-6cd8-45c9-aa35-7a89bce74fb4.png)
-![image](https://user-images.githubusercontent.com/108078148/206921069-26876faf-962b-4ce0-9c29-d6a3329399e5.png)
 ![image](https://user-images.githubusercontent.com/108078148/206921065-c41615e1-b5ed-4701-849e-ace20f643100.png)
+![image](https://user-images.githubusercontent.com/108078148/206921069-26876faf-962b-4ce0-9c29-d6a3329399e5.png)
 
 
 
