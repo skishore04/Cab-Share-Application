@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MYcabshare/app/src/main/res/drawable-xhdpi/ic_baseline_directions_car_24.xml" value="0.1835" />
+        <entry key="..\:/MYcabshare/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.248" />
+        <entry key="..\:/MYcabshare/app/src/main/res/drawable/layout_button_login.xml" value="0.1" />
+        <entry key="..\:/MYcabshare/app/src/main/res/drawable/spinner_login.xml" value="0.248" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/activity_final.xml" value="0.2421875" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/activity_found.xml" value="0.264" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/activity_home.xml" value="0.2421875" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/activity_maps.xml" value="0.2421875" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/activity_maps2.xml" value="0.2421875" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/activity_phone_login.xml" value="0.264" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/app_bar_home.xml" value="0.2421875" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/content_home.xml" value="0.2421875" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/fragment_gallery.xml" value="0.2318840579710145" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/fragment_home.xml" value="0.2421875" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/fragment_slideshow.xml" value="0.2421875" />
+        <entry key="..\:/MYcabshare/app/src/main/res/layout/nav_header_home.xml" value="0.264" />
+        <entry key="..\:/MYcabshare/app/src/main/res/menu/activity_main_drawer.xml" value="0.2421875" />
+        <entry key="..\:/MYcabshare/app/src/main/res/menu/home.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

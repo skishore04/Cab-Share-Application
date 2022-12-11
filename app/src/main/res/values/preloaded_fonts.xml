@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/aladin</item>
+        <item>@font/alegreya_sc_bold</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/amarante</item>
+        <item>@font/averia_serif_libre_bold</item>
+        <item>@font/belgrano</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/biorhyme_bold</item>
+        <item>@font/biorhyme_extralight</item>
+        <item>@font/cantata_one</item>
+        <item>@font/im_fell_english_sc</item>
+        <item>@font/marko_one</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <LinearLayout
+        android:id="@+id/layoutpanel"
+        android:layout_width="match_parent"
+        android:layout_height="198dp"
+        android:layout_marginTop="550dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="132dp"
+            android:layout_height="187dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/picCart"
+                android:layout_width="132dp"
+                android:layout_height="139dp"
+                android:layout_marginStart="4dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/driveraa" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="263dp"
+            android:layout_height="186dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="2dp"
+                android:text="Balraju"
+                android:textAlignment="center"
+                android:textColor="#FD6F02"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/t6"
+                android:layout_width="249dp"
+                android:layout_height="32dp"
+                android:layout_gravity="center"
+                android:text="Ts 09 FT 8174"
+                android:textAlignment="center"
+                android:textColor="#05A110"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/t7"
+                android:layout_width="248dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:text="Maruti Suzuki swift Dzire"
+                android:textAlignment="center"
+                android:textColor="#373b54"
+                android:textSize="20sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/t8"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="Ph:9874563210"
+                android:textAlignment="center"
+                android:textColor="#0043AA"
+                android:textSize="20sp"
+                android:textStyle="italic" />
+
+            <Button
+                android:layout_width="165dp"
+                android:id="@+id/finish"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="@color/purple_200"
+                android:text="See Details" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="548dp"
+        tools:context=".MapsActivity2"></fragment>
+
+</RelativeLayout>
+

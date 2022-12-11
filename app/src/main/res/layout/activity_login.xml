@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:id="@+id/markergif"
+        android:layout_width="207dp"
+        android:layout_height="349dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.05"
+        app:srcCompat="@drawable/marker" />
+
+
+    <Button
+        android:id="@+id/phbutton"
+        android:layout_width="354dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="56dp"
+        android:background="@drawable/layout_button_login"
+        android:drawableLeft="@drawable/smarticon"
+
+        android:onClick="phoneloginclick"
+        android:text="Log in with phone number"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/markergif" />
+
+    <Button
+        android:id="@+id/gbutton"
+        android:layout_width="354dp"
+        android:layout_height="61dp"
+        android:background="@drawable/layout_button_login"
+        android:drawableStart="@drawable/googleone"
+        android:padding="8sp"
+        android:text="Continue With google"
+        android:textColor="#040303"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/phbutton"
+        app:layout_constraintVertical_bias="0.2" />
+</androidx.constraintlayout.widget.ConstraintLayout>
